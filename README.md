@@ -28,7 +28,7 @@ You may list what libraries you used in this project, example :
 ## <a name="project-structures"></a> Project Structure :
 * `backend`
 * * `config`
-  * * `Database.js`
+  * `Database.js`
   *`controllers`
     * `StoryController.js`
   * `models`
@@ -36,11 +36,21 @@ You may list what libraries you used in this project, example :
     * `StoryModel.js`
   * `routes`
     *  `StoryRoutes.js`
-  
-  
-* `utils`
-* `pages`
-* `services`
+ * `index.js`
+ 
+* `frontend`
+* `components`
+  * `AddChapter.js`
+  * `AddStory.js`
+  * `EditStory.js`
+  * `LandingPage.js`
+  * `Sidebar.js`
+  * `StoryList.js`
+  * `ViewStory.js`
+* `App.css`
+* `App.js`
+* `index.css`
+* `index.js`
 
 ## <a name="apk-link"></a> Website URL :
-Attach the link of your deployed project or youtube link here
+Presentation Link
