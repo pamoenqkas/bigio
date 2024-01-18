@@ -27,7 +27,7 @@ You may list what libraries you used in this project, example :
 
 ## <a name="project-structures"></a> Project Structure :
 
-## * `backend`
+* `backend`
 * * `config`
   * `Database.js`
   *`controllers`
