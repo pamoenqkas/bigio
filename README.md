@@ -41,18 +41,18 @@ You may list what libraries you used in this project, example :
 
 ## 
  * `frontend`
- * `components`
-   * `AddChapter.js`
-   * `AddStory.js`
-   * `EditStory.js`
-   * `LandingPage.js`
-   * `Sidebar.js`
-   * `StoryList.js`
-   * `ViewStory.js`
- * `App.css`
- * `App.js`
- * `index.css`
- * `index.js`
+   * `components`
+     * `AddChapter.js`
+     * `AddStory.js`
+     * `EditStory.js`
+     * `LandingPage.js`
+     * `Sidebar.js`
+     * `StoryList.js`
+     * `ViewStory.js`
+    * `App.css`
+    * `App.js`
+    * `index.css`
+    * `index.js`
 
 ## <a name="apk-link"></a> Website URL :
 Presentation Link
