@@ -26,6 +26,7 @@ You may list what libraries you used in this project, example :
 - Tailwind.css
 
 ## <a name="project-structures"></a> Project Structure :
+
 ## * `backend`
 * * `config`
   * `Database.js`
@@ -37,8 +38,9 @@ You may list what libraries you used in this project, example :
   * `routes`
     *  `StoryRoutes.js`
  * `index.js`
- 
-## * `frontend`
+
+## 
+ * `frontend`
 * `components`
   * `AddChapter.js`
   * `AddStory.js`
