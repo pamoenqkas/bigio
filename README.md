@@ -1,7 +1,7 @@
-# Project Name
+# Storyku 
 
 ## <a name="introduction"></a> Introduction :
-Project Description
+Pembuatan proyek menggunakan react.js sebagai Front-end, express.js sebagai pengelolaan Back-end, dan tailwind.css sebagai perancangan elemen User Interface.
 
 ## Table of Contents
 
