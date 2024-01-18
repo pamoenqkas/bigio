@@ -30,7 +30,7 @@ You may list what libraries you used in this project, example :
 * `backend`
   * `config`
     * `Database.js`
-  *`controllers`
+  * `controllers`
     * `StoryController.js`
   * `models`
     * `ChapterModal.js`
