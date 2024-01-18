@@ -28,8 +28,8 @@ You may list what libraries you used in this project, example :
 ## <a name="project-structures"></a> Project Structure :
 
 * `backend`
-* * `config`
-  * `Database.js`
+  * `config`
+    * `Database.js`
   *`controllers`
     * `StoryController.js`
   * `models`
