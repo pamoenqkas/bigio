@@ -27,7 +27,17 @@ You may list what libraries you used in this project, example :
 
 ## <a name="project-structures"></a> Project Structure :
 * `backend`
-* `components`
+* * `config`
+  * * `Database.js`
+  *`controllers`
+    * `StoryController.js`
+  * `models`
+    * `ChapterModal.js`
+    * `StoryModel.js`
+  * `routes`
+    *  `StoryRoutes.js`
+  
+  
 * `utils`
 * `pages`
 * `services`
